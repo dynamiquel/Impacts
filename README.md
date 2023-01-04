@@ -1,5 +1,7 @@
 # Impacts
-Impacts is a basic hit impact and footsteps system for Unreal Engine 5, which uses physical materials to determine which sounds and Niagara particle effects to apply.
+Impacts is a basic hit impact and footsteps system for Unreal Engine 5, which uses physical materials to determine which sounds and Niagara particle effects to apply. Forked from an early build of [Abstruse](https://vixentail.com/abstruse).
+
+**C++ and Blueprint**
 
 ## How-to-use
 ### Registering surface types
